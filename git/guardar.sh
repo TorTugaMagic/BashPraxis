@@ -2,7 +2,7 @@
 # Script para agregar el script actual al repositorio git y hacer un commit
 # y push al branch main.
 
-git add git
+git add codesh/ git/ keyTerm/ M2/
 git commit -m "Agregando el script git/guardar.sh al repositorio"
 git push origin main
 echo "Archivo git/guardar.sh agregado y enviado al repositorio."
